@@ -40,7 +40,7 @@ Cookies 往往用于暂时缓存当前您的位置和身份，我们将通过 Co
 
 电子邮件将会被用于作为评论系统中的 Gravatar 头像，以及接收评论回复邮件。
 
-**我们永远不会向任何人泄露您的邮件，且永远不会向您的邮件发送任何广告邮件！** 我们在部分站点上运用了 Cloudflare 的 [邮件地址混淆技术](https://cf.record.yfun.top/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js)，避免爬虫抓取您的邮箱。
+**我们永远不会向任何人泄露您的邮箱地址，且永远不会向您的邮箱发送任何广告邮件！** 我们在部分站点上运用了 Cloudflare 的 [邮件地址混淆技术](https://cf.record.yfun.top/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js)，避免爬虫抓取您的邮箱。
 
 ### 2.3 手机号码
 
