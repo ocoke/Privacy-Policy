@@ -20,13 +20,13 @@ title: 隐私政策
 
 大部分的隐私信息由第三方平台收集，包括但不限于：
 
-- [Google Adsence](https://policies.google.com/technologies/product-privacy)
+- [Google](https://policies.google.com/technologies/product-privacy)
 - [LeanCloud（国际版）](https://leancloud.app/privacy/)
 - [Cloudflare](https://www.cloudflare.com/zh-cn/privacypolicy/)
 - [jsDelivr](https://www.jsdelivr.com/terms/privacy-policy-jsdelivr-net)
-- [Tencent CloudBase](https://cloud.tencent.com/document/product/301/11470)
+- [Tencent](https://cloud.tencent.com/document/product/301/11470)
 
-**所有第三方平台的隐私政策内容优先级均大于本篇隐私政策！**
+**请注意：所有第三方平台的隐私政策内容优先级均大于本篇隐私政策！**
 
 ## 2. 正文
 
@@ -40,7 +40,7 @@ Cookies 往往用于暂时缓存当前您的位置和身份，我们将通过 Co
 
 电子邮件将会被用于作为评论系统中的 Gravatar 头像，以及接收评论回复邮件。
 
-**我们永远不会向任何人泄露您的邮件！我们永远不会向您的邮件发送任何广告邮件！** 我们在部分站点上运用 Cloudflare 的 [邮件地址混淆技术](https://cf.record.yfun.top/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js)，避免爬虫获取您的邮箱。
+**我们永远不会向任何人泄露您的邮件，且永远不会向您的邮件发送任何广告邮件！** 我们在部分站点上运用了 Cloudflare 的 [邮件地址混淆技术](https://cf.record.yfun.top/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js)，避免爬虫抓取您的邮箱。
 
 ### 2.3 手机号码
 
@@ -67,9 +67,10 @@ Cookies 往往用于暂时缓存当前您的位置和身份，我们将通过 Co
 
 ## 3. 联系方式
 
-如果您需要帮助，或对此隐私政策有任何疑问和意见，可以 [点击此处](mailto:awa@outlook.ie) 与我们联系。
+如果您需要帮助，或对此隐私政策有任何疑问和意见，可以 发送邮件 与我们联系。
+
+邮箱：awa#outlook.ie (# => @)
 
 ## 4. 政策修订记录
 
-您可以 [点击此处](https://github.com/oCoke/Privacy-Policy/commits/master/index.md) 前往 GitHub 查看此政策的修订记录。
-
+您可以 [点击此处](https://github.com/oCoke/Privacy-Policy/commits/master/index.md) 前往 GitHub 查看此政策的修订记录，所有的修订历史都是公开、可追溯的。
