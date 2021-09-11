@@ -69,7 +69,7 @@ Cookies 往往用于暂时缓存当前您的位置和身份，我们将通过 Co
 
 如果您需要帮助，或对此隐私政策有任何疑问和意见，可以 发送邮件 与我们联系。
 
-邮箱：awa@outlook.ie
+邮箱：ohhhcky+privacy@outlook.com
 
 ## 4. 政策修订记录
 
